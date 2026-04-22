@@ -83,7 +83,7 @@ h6 {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  left: 15px;
+  right: 15px;
   bottom: 15px;
   z-index: 996;
   background: #D4AF37;
@@ -1834,7 +1834,7 @@ section {
 #language-bar {
   position: sticky;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   background-color: rgba(28, 28, 28, 0.9);
   /* استخدم اللون المعطى بدلاً من اللون الأزرق */
   padding: 10px 20px;
